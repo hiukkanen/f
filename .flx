@@ -19,6 +19,6 @@ bash fluxflex_setup.sh
 bash fluxflex_rake.sh
 
 [deploy]
-bash fluxflex_deploy.sh
+bash fluxflex_deploy.sh 2>&1
 
 
